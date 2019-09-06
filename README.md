@@ -1,4 +1,3 @@
-# data_vis
 # Data Visualization Project
 # Max Reinheimer dos Santos Denig
 ## Coded in RStudio on R Version 3.5.2 using Shinyapps
